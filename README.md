@@ -8,6 +8,7 @@ This is idempotent python3 script. It is possible to execute this script in comp
 You must have it:
 * [python3](https://www.python.org/) - is a programming language that lets you work more quickly and integrate your systems more effectively.
 * [python3-pip](https://pypi.org/project/pip/) - is a package management system
+Also you must setup aws credentials. You can write it in ~/.aws/credentials directory.
 
 ### Commands
 ```sh
